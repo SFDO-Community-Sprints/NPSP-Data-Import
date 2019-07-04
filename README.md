@@ -9,7 +9,7 @@ Nonprofit Salesforce admins and consultants who'd like to import date into Sales
 # Project Team
 - Team Leader: Melissa Barber
 - List of Contributors:
- - test
+  - test
 
 # Project Team Accomplishments
 - Reorganized some of the sections of the existing guide.
