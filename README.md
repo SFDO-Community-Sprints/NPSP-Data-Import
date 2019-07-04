@@ -1,6 +1,4 @@
 # NPSP Data Import
-
-## Project Description
 Work on ways to make the NPSP Administrator's Guide to Importing Donor Data easier to use and follow. This guide was developed in 2014 with the help of Salesforce.org employees, Salesforce.com volunteers, and nonprofit community members! It's been added to over time, and is due for a refresh.
 
 ## Project Audience
